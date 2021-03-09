@@ -1,4 +1,6 @@
-### Hi world 👋
+### Hi world, I'm Kiran 👋
+
+## I'm a Developer,Blogger, and Open source Contributor!
 
 <!--
 **Dimension8d/Dimension8d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
