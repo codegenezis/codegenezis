@@ -2,7 +2,7 @@
 
 ## I'm a Developer,Blogger, and Open source Contributor!
 
-- 🌱 I’m currently learning  Angular, Python and DevOps😎
+- 🌱 I’m currently learning  Angular, Python and DevOps 😎
 - 👯 I’m looking to develop new apps
 - 🥅 2021 Goals: Learn GraphQl and contribute more to Open Source projects.
 - ⚡ Fun fact: I love coffee and youtube
